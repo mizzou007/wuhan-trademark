@@ -1,5 +1,5 @@
 ---
-title: 武汉智凡知识产权
+title: 智凡知识产权
 subtitle: 专业的涉外商标事务所
 image: /img/home-jumbotron.jpg
 blurb:
