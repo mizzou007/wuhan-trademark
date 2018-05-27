@@ -1,20 +1,24 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: 武汉智凡知识产权
+subtitle: 专业的涉外商标事务所
 image: /img/home-jumbotron.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+  heading: 智凡知识产权简介
+  text: >-
+    智凡知识产权是国际商标协会（INTA）会员单位和全球知识产权咨询服务业联盟（AGIPS）成员。智凡核心团队由长期从事涉外知识产权代理工作的专业人士组成，具有丰富且良好的执业记录。
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+  heading: 武汉商标注册的途径
+  text: 提交商标注册申请，既可以直接到商标注册窗口办理，也可以委托具有商标代理资质的代理机构办理。
 products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+  - image: img/illustrations-coffee.svg
+    text: >-
+      申请人自行到商标注册窗口办理，虽然免去了支付代理服务费，但因为对商标注册的禁止性规定不了解，对商标近似判断不专业和缺乏经验，导致商标注册风险大大增加。据国家商标局每年公布的《中国商标白皮书》，近几年商标注册驳回率约40%。这应该引起申请人足够关注。
+  - image: /img/illustrations-coffee-gear.svg
+    text: >-
+      委托专业的商标代理机构，虽然多支付了注册服务费，但能规避较为明显的商标驳回风险。比如武汉智凡知识产权购买了业内先进的商标查询软件，加上商标代理人具有近10年从业经验，对于商标缺乏显著性、商标近似等，能提供更准确、更有建设性的注册意见。
 values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+  heading: 商标注册包过到底靠不靠谱？
+  text: >-
+    “包过”意味着有不能通过的情形。商标注册申请驳回的原因主要有：商标属于法律禁止使用或注册的情形（比如商标名称或图形包含国家名称、容易产生不良影响等等），或者拟申请的商标与申请或注册在先的商标构成近似，等等。虽然商标法、商标审查标准等对此做出了明文规定，但终究离不开人的主观判断，因此发生驳回在所难免。所谓“包过”，商标局对此早已多次提醒属于扰乱商标代理市场的行为，且各地工商局已处理过多起虚假承诺的商标代理机构。
 ---
 
